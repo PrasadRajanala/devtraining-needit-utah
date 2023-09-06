@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fa89017a97013110f824f5c11153afc7" label="check9" max_length="40" name="x_58872_needit_check9" type="collection">
+        <element label="Dependent value" max_length="40" name="dependent_value" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Element" max_length="40" name="element" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Hint" max_length="40" name="hint" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Inactive" max_length="40" name="inactive" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Label" max_length="40" name="label" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Language" max_length="40" name="language" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sequence" max_length="40" name="sequence" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Synonyms" max_length="40" name="synonyms" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Table" max_length="40" name="table" type="string"/>
+        <element label="Value" max_length="40" name="value" type="integer"/>
+    </element>
+</database>
